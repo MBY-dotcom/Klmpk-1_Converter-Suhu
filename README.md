@@ -2,10 +2,7 @@
 Project PBO-OOP
 
 
+Nama Anggota : 
 
-
-
-
-
-Nama Anggota : M. Brian Yusuf 	(20051397036)
-                M. Didik Wahyudi	(20051397040)
+1. M. Brian Yusuf 	(20051397036)
+2. M. Didik Wahyudi	(20051397040)
